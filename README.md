@@ -14,7 +14,7 @@ A simple way to disable your internet conection and totally windows defender fir
 
 ## Usage
 
-Change the "Ethernet" for the name of your internet conection. ( Acessible in your windows configs of network, but Ethernet is the popular )
+Change the "Ethernet" in the Main.bat for the name of your internet conection. ( Acessible in your windows configs of network, but Ethernet is the popular )
 ```
 netsh advfirewall set allprofiles state off 
 
@@ -23,6 +23,7 @@ wmic path win32_networkadapter where NetConnectionID="𝙀𝙩𝙝𝙚𝙧𝙣�
 GOTO Men
 ```
 𝙍𝙐𝙉 𝙏𝙃𝙀 .𝙗𝙖𝙩 𝙒𝙄𝙏𝙃 𝙏𝙃𝙀 𝘼𝘿𝙈𝙄𝙉𝙄𝙎𝙏𝙍𝘼𝙏𝙊𝙍 𝙋𝙍𝙄𝙑𝙄𝙇𝙀𝙂𝙀𝙎! 
+DONE! ;) 
 
 ## Authors
 
